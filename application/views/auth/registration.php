@@ -13,7 +13,7 @@
         <meta property="og:title" content="Login - TPOW | Layanan Wifi Rumahan Serba Digital">
         <meta property="og:url" content="https://tpow.zeroworld.xyz/">
         <meta property="og:type" content="website">
-        <meta property="og:description" content="FreeDDNS Merupakan layanan Tunneling yang bisa digunakan untuk kebutuhan jaringan seperti vpn remote device, ddns, & http reverse proxy.">
+        <meta property="og:description" content="TPOW merupakan layanan wifi rumahan.">
         <meta content='#3425AF' name='msapplication-navbutton-color'/>
         <meta content='yes' name='apple-mobile-web-app-capable'/>
         <meta content='#3425AF' name='apple-mobile-web-app-status-bar-style'/>
